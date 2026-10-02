@@ -1,47 +1,65 @@
-# ¡Hola! Soy Filocaris Triana Pinzón 👋 🤖
+# 🛸 Filocaris Triana Pinzón
+### *Ingeniero Mecatrónico | Especializado en UAVs, Ciberdefensa & Procesamiento RF*
 
-Estudiante de **Ingeniería Mecatrónica** (10.º semestre) en la **Universidad Militar Nueva Granada**. Me apasiona la integración entre **automatización industrial, robótica, procesamiento RF y ciberseguridad aplicadas al sector defensa y tecnología aeroespacial**.
-
----
-
-## 🚀 Sobre mí
-
-- 🎓 **Educación:** Estudiante de Ingeniería Mecatrónica | UMNG (Campus Cajicá)[cite: 1].
-- 🛰️ **Áreas de Interés:** Sistemas Embebidos, Control & Automatización, Radiofrecuencia (SDR), Ciberseguridad Industrial y Robótica / UAVs[cite: 1].
-- 📡 **Radioaficionado:** Licenciado categoría Novicio (HJ) en Colombia.
-- 🎯 **Objetivo:** Enfocado en el desarrollo e integración de soluciones tecnológicas seguras e innovadoras para la industria y el sector aeroespacial/defensa[cite: 1].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filocaris_Triana-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filocaris-triana-pinzón-702662285/)
+[![GitHub](https://img.shields.io/badge/GitHub-FilocarisP-181717?style=for-the-badge&logo=github)](https://github.com/FilocarisP)
+[![Radio License](https://img.shields.io/badge/Licencia_RF-HJ_(Novicio)-FFD700?style=for-the-badge&logo=radio)](https://github.com/FilocarisP)
+[![Location](https://img.shields.io/badge/Ubicación-Cajicá,_Colombia-009246?style=for-the-badge&logo=google-maps)](https://github.com/FilocarisP)
 
 ---
 
-## 🛠️ Stack Tecnológico y Habilidades
+## 🎯 Perfil & Visión
 
-### 🏭 Automatización & Control
-- **PLC & HMI:** TIA Portal (LAD, AWL, FBD, SCL)[cite: 1]
-- **Simulación de Sistemas:** MATLAB & Simulink[cite: 1]
-- **Redes Industriales:** Conceptos de redes, protocolos y arquitectura de control[cite: 1]
+Estudiante de **10.º semestre de Ingeniería Mecatrónica** en la **Universidad Militar Nueva Granada (UMNG)**. Orientado al desarrollo de tecnología estratégica para el **Sector Defensa, Ciberdefensa y la Industria Aeroespacial** (Fuerza Aérea).
 
-### ⚙️ Diseño & Simulación Mecánica
-- **CAD & Modelado 3D:** SolidWorks (Diseño y Ensambles)[cite: 1]
-- **Análisis de Esfuerzos / CFD:** ANSYS (Dinámica de fluidos y optimización estructural)[cite: 1]
-- **Prototipado:** Manufactura Aditiva (Impresión 3D)[cite: 1]
+Combino la ingeniería de control, el diseño aeronáutico/mecánico y la robótica autónoma con un enfoque riguroso en **ciberseguridad industrial, procesamiento de radiofrecuencia (SDR) y protección de activos digitales**.
 
-### 🛡️ Redes & Ciberseguridad
-- **Certificación Cisco:** CCNA - Introduction to Networks[cite: 1]
-- **Ciberseguridad:** Hacking Ético, PenTesting básico y protección de activos digitales[cite: 1]
-- **Redes:** Arquitectura de redes, direccionamiento IP, configuración de Routers y Switches[cite: 1]
+- 🎓 **Formación:** Ingeniería Mecatrónica — Universidad Militar Nueva Granada (Sede Campus).
+- 📻 **Radioaficionado:** Licenciado Categoría Novicio (HJ) en Colombia *(Interés en Guerra Electrónica, SDR y Telecomunicaciones Críticas)*.
+- 🛡️ **Ciberseguridad:** Formación en PenTesting, seguridad en redes (CCNA) y protección de infraestructura OT/ICS.
+- 🚁 **Sistemas No Tripulados (UAVs):** Diseño CAD, optimización estructural y simulación fluidodinámica (CFD) para aeronaves.
 
 ---
 
-## 🔬 Destacados Técnicos & Proyectos
+## 🛠️ Stack Tecnológico & Herramientas
 
-* **Diseño y Validación Robótica:** Puesta en marcha, análisis cinemático y verificación de desempeño operativo en sistemas robóticos a escala[cite: 1].
-* **Simulación Aeroespacial:** Análisis fluido-dinámico (CFD) y optimización de prototipos UAVs mediante ANSYS[cite: 1].
-* **Sistemas de Control:** Modelado dinámico en Simulink para validación de algoritmos de control antes de despliegue físico[cite: 1].
+| Área | Tecnologías y Herramientas |
+| :--- | :--- |
+| **🛸 Drones, Robótica & Control** | ROS2, ANSYS (CFD & FEA), SolidWorks CAD, MATLAB / Simulink, Kinova |
+| **🛡️ Ciberseguridad & Redes** | Cisco CCNA, Ethical Hacking & PenTesting, Wireshark, Seguridad en Redes OT/ICS |
+| **📡 RF & Embebidos** | Software Defined Radio (SDR), C++, Python, Java, Proteus, Microcontroladores |
+| **🏭 Automatización Industrial** | TIA Portal (SCL, LAD, AWL, FBD), HMI, KEPServerEX, Factory I/O |
 
 ---
 
-## 📬 Contacto & Redes
+## 🔬 Proyectos & Áreas de Impacto
 
-- 💼 **LinkedIn:** [Filocaris Triana Pinzón](https://www.linkedin.com/in/filocaris-triana-pinzón-702662285/)[cite: 1]
-- 🐙 **GitHub:** [@FilocarisP](https://github.com/FilocarisP)[cite: 1]
-- 📍 **Ubicación:** Cajicá, Cundinamarca - Colombia[cite: 1]
+### 🚁 Aeroespacial & Dinámica de Fluidos (UAVs)
+- **Simulación Avanzada CFD en ANSYS:** Análisis fluidodinámico y optimización aerodinámica/estructural de prototipos de aeronaves no tripuladas (Drones).
+- **Diseño Mecánico CAD:** Modelado y validación de materiales en SolidWorks para estructuras robóticas y aeroespaciales.
+
+### 🤖 Robótica Autónoma & Middleware
+- **Integración con ROS2:** Control cinemático, planificación de trayectorias y verificación operativa en brazos manipuladores y sistemas autónomos.
+- **Visión Artificial:** Desarrollo de algoritmos en Python/C++ con redes neuronales para detección de obstáculos e identificación en tiempo real.
+
+### 🛡️ Ciberdefensa & Redes Críticas
+- **Seguridad en Infraestructura:** Implementación de protocolos de red seguros, arquitectura de routers/switches (Cisco) y análisis de vulnerabilidades en entornos industriales.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FilocarisP&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilocarisP&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="45%" />
+</p>
+
+---
+
+## 📬 Conectemos
+
+Si estás interesado en proyectos de **Automatización, Drones, Ciberdefensa o Tecnología Militar/Aeroespacial**, no dudes en contactarme:
+
+- 📧 **Correo:** [pinzonfilocaris04@gmail.com](mailto:pinzonfilocaris04@gmail.com)
+- 💼 **LinkedIn:** [Filocaris Triana Pinzón](https://www.linkedin.com/in/filocaris-triana-pinzón-702662285/)
+- 🐙 **GitHub:** [@FilocarisP](https://github.com/FilocarisP)
