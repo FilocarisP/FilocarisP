@@ -1,6 +1,6 @@
 # ¡Hola! Soy Filocaris Triana Pinzón 👋 🤖
 
-Estudiante de **Ingeniería Mecatrónica** (9.º semestre) en la **Universidad Militar Nueva Granada**. Me apasiona la integración entre **automatización industrial, robótica, procesamiento RF y ciberseguridad aplicadas al sector defensa y tecnología aeroespacial**.
+Estudiante de **Ingeniería Mecatrónica** (10.º semestre) en la **Universidad Militar Nueva Granada**. Me apasiona la integración entre **automatización industrial, robótica, procesamiento RF y ciberseguridad aplicadas al sector defensa y tecnología aeroespacial**.
 
 ---
 
